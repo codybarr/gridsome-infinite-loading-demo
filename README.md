@@ -1,6 +1,6 @@
 # Gridsome Infinite Loading Demo
 
-Simple blog demoing the use of Infinite Loading in Gridsome
+Simple blog demoing the use of Infinite Loading in Gridsome.
 
 Forked from the amazing minimalistic blog starter found here: https://gridsome.org/starters/gridsome-blog-starter/
 
