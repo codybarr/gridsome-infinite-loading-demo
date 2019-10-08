@@ -5,3 +5,14 @@
 @import 'code';
 @import 'content-box';
 @import 'utils';
+
+/* Transitions */
+
+.fade-enter-active,
+.fade-leave-active {
+	transition: ease opacity 0.3s;
+}
+.fade-enter,
+.fade-leave-to {
+	opacity: 0;
+}
