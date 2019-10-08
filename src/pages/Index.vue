@@ -71,7 +71,7 @@ export default {
 			currentPage: 1
 		}
 	},
-	mounted() {
+	created() {
 		this.loadedPosts.push(...this.$page.posts.edges)
 	},
 	methods: {
